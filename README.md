@@ -3,7 +3,7 @@ A simple interactive Chess game written using pygame and python-chess.
 
 # Usage
 - It is precisely recommended to install all necessary libraries: `pip3 install chess pygame stockfish`
-- The game is powered by Stockfish, download it from [Stockfish](https://stockfishchess.org/). In the source file, initialize the path to the Stockfish binary file. 
+- The game is powered by [Stockfish](https://stockfishchess.org/). In the source file, initialize the path to the Stockfish binary file. 
 ```python
 # Initialize Stockfish
 try:

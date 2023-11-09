@@ -7,6 +7,7 @@ import math
 
 # Intialize Pygame instances
 pygame.init()
+pygame.display.set_caption('pygame-chess')
 
 board = chess.Board()
 board_color = [(118,150,86), (238,238,210), (188, 203, 74), (245, 245, 138)]
